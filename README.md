@@ -1,4 +1,4 @@
-Oiiii!Eu sou Gustavo Pich
+Hi, I'm Thai Braga!
 
 
 
