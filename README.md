@@ -1,4 +1,9 @@
-Gustavo Pich 
+Oiiii!Eu sou Gustavo Pich
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pichee&show_icons=true&theme=merko)
+
 
 [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//5555997359965)
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_pich_/)
