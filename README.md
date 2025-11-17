@@ -1,11 +1,10 @@
 ### 👋 E aí, eu sou o Gustavo 💡
 
 <p align="left">
-  🎓 Estudante de Ciência da Computação – IFFar (3º semestre)<br>
+  🎓 Estudante de Ciência da Computação – IFFar<br>
   👨‍💻 Indie hacker em formação, sempre criando, testando e aprendendo<br>
   🧠 Curioso por natureza: apaixonado por IA, dados e dev em geral<br>
   🤝 Trabalho em equipe, mente aberta e foco em evolução constante<br>
-  🎮 Vôlei, academia, xadrez e um bom game nas horas vagas
 </p>
 
 ---
